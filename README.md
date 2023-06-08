@@ -72,7 +72,7 @@ namespace BusTransitApp.Data
                     };
                     new Stop
                     {
-                        Name "Grant Rd"
+                        Name = "Grant Rd"
                     };
                     
                 };
